@@ -4,10 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![_config.yml]({{ site.baseurl }}/images/cv.png)
-
-### NOT ONLY DEVELOPMENT
-### !!ENTREPRENEURSHIP!!
+ENTREPRENEUR
 
 I design, prototype and develop apps
 
@@ -26,6 +23,8 @@ Have fun!
 ### More Information
 
 about.me/mehmetaydogdu
+
+For cv visit: [here]({{ site.baseurl }}/images/cv.png)
 
 ### Contact me
 
