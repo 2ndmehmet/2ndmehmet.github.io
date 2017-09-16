@@ -28,4 +28,4 @@ For cv visit: [here]({{ site.baseurl }}/images/cv.png)
 
 ### Contact me
 
-[email@domain.com](mailto:mhmt.dp@gmail.com)
+[mhmt.dp@gmail.com](mailto:mhmt.dp@gmail.com)
