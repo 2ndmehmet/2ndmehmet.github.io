@@ -24,7 +24,7 @@ Have fun!
 
 about.me/mehmetaydogdu
 
-For cv visit: [here]({{ site.baseurl }}/images/cv.png)
+For cv visit: [here]({{ site.baseurl }}/images/cv2020.pdf)
 
 ### Contact me
 
